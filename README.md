@@ -7,6 +7,8 @@ Use Python create a movie trailer site.
 
 [fresh_tomatoes.py](https://github.com/WoHotan/movie-trailer-site/blob/master/fresh_tomatoes.py),create a HTML file.
 
+[fresh_tomatoes.html](https://github.com/WoHotan/movie-trailer-site/blob/master/fresh_tomatoes.html),movie website,open it derectry.
+
 ## 项目概述
   用python编写代码，存储喜爱的电影信息，包括剧照和电影预告片网址。然后编写一个静态网页，允许网页访客浏览电影和观看预告片。
   
