@@ -10,5 +10,5 @@ Use Python create a movie trailer site.
   
   - 创建一个数据结构（即 Python 类）来存储喜爱的电影，包括电影片名、剧照网址（或海报网址）以及电影预告片的 YouTube 链接。
   - 创建该 Python 类的多个实例来代表喜爱的电影；将所有实例放在一个列表中。
-  - fresh_tomatoes.py 的 Python 模块 - 此模块有一个名为 open_movies_page的函数，它将一个参数作为输入，即电影列表，然后创建一个 HTML 文件来可视化喜爱的所有电影。 （这个fresh_tomatoes.py同时兼容 YouTube 和 Youku 的链接，需要 Movie 类中 trailer_youtube_url 属性改成 trailer_url）
+  - 使用fresh_tomatoes.py 的 Python 模块 - 此模块有一个名为 open_movies_page的函数，它将一个参数作为输入，即电影列表，然后创建一个 HTML 文件来可视化喜爱的所有电影。 （这个fresh_tomatoes.py同时兼容 YouTube 和 Youku 的链接，需要 Movie 类中 trailer_youtube_url 属性改成 trailer_url）
   
