@@ -3,7 +3,9 @@ Use Python create a movie trailer site.
 
 [media.py](https://github.com/WoHotan/movie-trailer-site/blob/master/media.py),class，open the tailer url.
 
-[entertainment_center.py](https://github.com/WoHotan/movie-trailer-site/blob/master/entertainment_center.py),movie list.
+[entertainment_center.py](https://github.com/WoHotan/movie-trailer-site/blob/master/entertainment_center.py),movie list and image.
+
+[fresh_tomatoes.py](https://github.com/WoHotan/movie-trailer-site/blob/master/fresh_tomatoes.py),create a HTML file.
 
 ## 项目概述
   用python编写代码，存储喜爱的电影信息，包括剧照和电影预告片网址。然后编写一个静态网页，允许网页访客浏览电影和观看预告片。
